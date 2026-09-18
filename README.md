@@ -104,4 +104,4 @@
 
 ---
 
-<p align="center"><i>Portfolio: <a href="https://siva-portfolio-ruby.vercel.app/)">siva.dev</a></i></p>
+<p align="center"><i>Portfolio: <a href="https://siva-portfolio-ruby.vercel.app/">siva.dev</a></i></p>
