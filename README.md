@@ -94,11 +94,6 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SivaPhoenix&theme=tokyonight&hide_border=false&show_icons=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPhoenix&theme=tokyonight&hide_border=false&layout=compact" height="165" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SivaPhoenix&theme=tokyonight&hide_border=false" />
 </p>
 
